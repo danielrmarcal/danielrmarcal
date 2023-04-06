@@ -36,3 +36,7 @@
   <a href = "mailto:danielrmarcal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo-gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-marçal-80a447240" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+  
+<img width= 100% src="https://capsule-render.vercel.app/api?type=waving&color=BABABA&height=120&section=footer"/>
+  
+  
