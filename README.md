@@ -12,7 +12,8 @@
 
 ## What i am working on 🤔
 
-- 🔭 I’m currently working on C projects and learning Computer Science 
+- 🔭 I’m currently working on C projects and learning Computer Science
+- 💡 Learning how to use Unity, and make my own games in C#
 - 🌱 I’m currently learning C, Html and Css
 
 ##
