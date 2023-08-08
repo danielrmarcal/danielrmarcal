@@ -8,8 +8,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrmarcal&hide_border=true&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=danielrmarcal&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## What i am working on 🤔
 
 - 🔭 I’m currently working on C projects and learning Computer Science
